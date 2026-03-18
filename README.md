@@ -1,11 +1,8 @@
 ### Hi there, I'm Eric! 👋
 
 我是 **哈尔滨工业大学（深圳校区）** 的一名 **计算机科学与技术** 专业本科生。
-热衷于探索 **人工智能 (Computer Vision / LLM)** 在实际场景中的应用。
-相比于单纯的模型训练，我更喜欢构建**端到端的 AI 应用程序**。
-
 I am a CS undergrad student passionate about **Applied AI**.
-I focus on building end-to-end applications powered by **Computer Vision** and **Local LLMs**.
+
 
 - 🔭 目前专注于：**YOLO 目标检测**、**本地大模型应用开发**
 - 🌱 正在学习：**PyTorch**, **Software Architecture**, **System Monitoring**
@@ -17,18 +14,16 @@ I focus on building end-to-end applications powered by **Computer Vision** and *
 
 **Core & Backend:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **AI & ML:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
-### 🏆 精选项目 (Featured Projects)
+### 🏆 项目 (Featured Projects)
 
 #### 🔬 [智能晶圆缺陷检测系统 (Wafer Defect Detection)](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
 > **工业级 AI 视觉检测方案** (Industrial Defect Detection)
