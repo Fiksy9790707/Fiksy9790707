@@ -3,6 +3,8 @@
 我是 **哈尔滨工业大学（深圳校区）** 的一名 **计算机科学与技术** 专业本科生。
 I am a CS undergrad student passionate about **Applied AI**.
 
+🌐 Portfolio: [eric-portfolio-weld.vercel.app](https://eric-portfolio-weld.vercel.app/)
+
 
 - 🔭 目前专注于：**YOLO 目标检测**、**本地大模型应用开发**
 - 🌱 正在学习：**PyTorch**, **Software Architecture**, **System Monitoring**
