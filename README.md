@@ -1,44 +1,70 @@
-### Hi there, I'm Eric! 👋
+# Hi, I'm Eric / 冯学诚
 
-我是 **哈尔滨工业大学（深圳校区）** 的一名 **计算机科学与技术** 专业本科生。
-I am a CS undergrad student passionate about **Applied AI**.
+我是哈尔滨工业大学（深圳）计算机科学与技术本科生，目前关注 Applied AI、Computer Vision 和 Local LLM 应用。
 
-🌐 Portfolio: [eric-portfolio-weld.vercel.app](https://eric-portfolio-weld.vercel.app/)
+I am a Computer Science undergraduate at Harbin Institute of Technology, Shenzhen, focused on Applied AI, Computer Vision, and Local LLM applications.
 
+Portfolio: [eric-portfolio-weld.vercel.app](https://eric-portfolio-weld.vercel.app/)
 
-- 🔭 目前专注于：**YOLO 目标检测**、**本地大模型应用开发**
-- 🌱 正在学习：**PyTorch**, **Software Architecture**, **System Monitoring**
-- 💼 求职意向：**AI 算法工程师 / 后端开发 (Python) 实习生**
+## Current Focus
+
+- Building end-to-end AI application prototypes, not only isolated model demos.
+- Exploring YOLO-based computer vision workflows for industrial-style defect detection.
+- Experimenting with local LLM tools for system monitoring, personal automation, and knowledge workflows.
+- Learning PyTorch, software architecture, and practical deployment patterns.
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+
+**Application / Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+## Featured Projects
+
+### [Wafer Defect Detection](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
+
+Industrial defect detection prototype based on YOLOv8 and Streamlit.
+
+- Stack: `YOLOv8`, `Streamlit`, `Aliyun PAI`
+- Focus: small-target defect detection and the workflow from cloud training to Windows local delivery.
+- Status: prototype / building
+
+### [Silicon Diaries](https://github.com/Fiksy9790707/Silicon-Diaries)
+
+Local LLM-powered system diary experiment.
+
+- Stack: `Ollama`, `Qwen/Llama`, `psutil`, `Python Logging`
+- Focus: monitoring system state and generating automated first-person diary entries.
+- Status: experimental
+
+### AI Campus Assistant
+
+A campus AI workflow prototype for organizing notices, deadlines, courses, and activity information.
+
+- Stack: `LLM`, `Workflow`, `Knowledge Base`, `Structured Output`
+- Status: building
+- Repository: TODO
+
+## Notes
+
+This profile is intentionally kept realistic and work-in-progress. I am still learning, building, and turning selected coursework or experiments into public projects.
 
 ---
 
-### 🛠️ 技术栈 (Tech Stack)
-
-**Core & Backend:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**AI & ML:**
-![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
----
-
-### 🏆 项目 (Featured Projects)
-
-#### 🔬 [智能晶圆缺陷检测系统 (Wafer Defect Detection)](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
-> **工业级 AI 视觉检测方案** (Industrial Defect Detection)
-> * **技术栈**：`YOLOv8` `Streamlit` `Aliyun PAI`
-> * **亮点**：解决了工业场景下**小目标漏检**痛点，实现了从云端训练到 Windows 本地交付的全流程闭环。
-
-#### 📔 [硅基日记 (Silicon Diaries)](https://github.com/Fiksy9790707/Silicon-Diaries)
-> **赋予电脑“自我意识”的自动化日记系统** (AI-Powered System Diary)
-> * **技术栈**：`Ollama (Qwen/Llama)` `psutil` `Python Logging`
-> * **创意**：一个后台守护进程，实时监控系统的“生命体征”（CPU 温度、内存压力、开机时长）。
-> * **功能**：每天根据运行状态，利用本地大模型以**第一人称**生成一篇吐槽主人的日记（例如：“今天 CPU 热得像在桑拿房...”），并自动归档。
-
----
-
-### 📊 GitHub 数据
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiksy9790707&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiksy9790707&show_icons=true&theme=github_dark)
