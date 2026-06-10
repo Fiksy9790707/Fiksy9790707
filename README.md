@@ -31,7 +31,7 @@ A work-in-progress campus AI workflow prototype for organizing notices, deadline
 
 - Stack: `Prompt Engineering`, `Structured Output`, `Schema Validation`, `Local FAQ Retrieval`, `Workflow Orchestration`
 - Focus: extracting deadlines from messages, validating structured outputs, retrieving campus FAQ snippets, generating next actions, and preparing prompt drafts for a future optional LLM adapter
-- Status: building / local deterministic workflow prepared; public repository planned as `AI-Campus-Assistant`
+- Status: local deterministic workflow prepared; public portfolio evidence artifact available in `eric-portfolio`; standalone repository planned as `AI-Campus-Assistant`
 
 ### [Wafer Defect Detection System](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
 
