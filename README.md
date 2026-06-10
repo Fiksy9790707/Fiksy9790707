@@ -31,7 +31,7 @@ A work-in-progress campus AI workflow prototype for organizing notices, deadline
 
 - Stack: `LLM API`, `Prompt Engineering`, `Structured Output`, `Knowledge Base`, `Agent Workflow`
 - Focus: extracting deadlines from messages, organizing campus information, and building a practical assistant workflow
-- Status: building / README prepared
+- Status: building / local demo prepared
 - Repository: planned as `AI-Campus-Assistant`
 
 ### [Wafer Defect Detection System](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
@@ -42,13 +42,13 @@ An industrial-style visual inspection prototype based on YOLOv8 and Streamlit.
 - Focus: small-object detection, image slicing, inference result merging, and local application delivery
 - Status: prototype / documented case study
 
-### [Second-Brain-Local / Local LLM Experiments](https://github.com/Fiksy9790707/Second-Brain-Local)
+### [Second-Brain-Local / Local RAG Experiments](https://github.com/Fiksy9790707/Second-Brain-Local)
 
-A local knowledge-base and LLM workflow experiment using local models and retrieval tools.
+A local knowledge-base and retrieval workflow experiment for personal notes.
 
-- Stack: `Ollama`, `RAG`, `ChromaDB`, `Python`
-- Focus: local knowledge management, privacy-safe retrieval, and personal automation
-- Status: experimental
+- Stack: `Python`, `Local Retrieval Baseline`, `RAG Workflow`; planned: `Ollama`, `ChromaDB`
+- Focus: markdown note loading, chunking, keyword retrieval baseline, and privacy-safe local knowledge workflows
+- Status: experimental / minimal demo
 
 ## Notes
 
