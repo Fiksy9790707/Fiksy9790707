@@ -29,9 +29,9 @@ Portfolio: [eric-portfolio-weld.vercel.app](https://eric-portfolio-weld.vercel.a
 
 A work-in-progress campus AI workflow prototype for organizing notices, deadlines, courses, and activity information.
 
-- Stack: `Prompt Engineering`, `Structured Output`, `Schema Validation`, `Local FAQ Retrieval`, `RAG Workflow`
-- Focus: extracting deadlines from messages, validating structured outputs, retrieving campus FAQ snippets, and building a practical assistant workflow
-- Status: building / local demo prepared; public repository planned as `AI-Campus-Assistant`
+- Stack: `Prompt Engineering`, `Structured Output`, `Schema Validation`, `Local FAQ Retrieval`, `Workflow Orchestration`
+- Focus: extracting deadlines from messages, validating structured outputs, retrieving campus FAQ snippets, generating next actions, and preparing prompt drafts for a future optional LLM adapter
+- Status: building / local deterministic workflow prepared; public repository planned as `AI-Campus-Assistant`
 
 ### [Wafer Defect Detection System](https://github.com/Fiksy9790707/Wafer-Defect-Detection-System)
 
