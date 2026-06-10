@@ -46,8 +46,8 @@ An industrial-style visual inspection prototype based on YOLOv8 and Streamlit.
 
 A local knowledge-base and retrieval workflow experiment for personal notes.
 
-- Stack: `Python`, `Local Retrieval Baseline`, `RAG Workflow`; planned: `Ollama`, `ChromaDB`
-- Focus: markdown note loading, chunking, keyword retrieval baseline, and privacy-safe local knowledge workflows
+- Stack: `Python`, `Local Retrieval Baseline`, `Optional Ollama Adapter`, `RAG Workflow`; planned: `ChromaDB`, `Streamlit`
+- Focus: markdown note loading, chunking, keyword retrieval baseline, optional local generation fallback, and privacy-safe local knowledge workflows
 - Status: experimental / minimal demo
 
 ## Notes
